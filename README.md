@@ -22,3 +22,10 @@ This project was completed as part of my graduate coursework and focuses on buil
 - Python, PyTorch for deep learning
 - OpenAI Gym (CarRacing-v0) for environment simulation
 - Numpy and Matplotlib for dataset handling and analysis
+
+
+CNN model driving:
+![](https://github.com/PavanKumar-Gudiwada/AutonomousCarRacing/blob/main/CNN_Drive.gif)
+
+GRU model driving:
+![](https://github.com/PavanKumar-Gudiwada/AutonomousCarRacing/blob/main/RNN_Drive.gif)
