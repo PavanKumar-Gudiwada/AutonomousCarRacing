@@ -23,9 +23,19 @@ This project was completed as part of my graduate coursework and focuses on buil
 - OpenAI Gym (CarRacing-v0) for environment simulation
 - Numpy and Matplotlib for dataset handling and analysis
 
+# Results & Observations
+|Model|Accuracy|Model Size|Inference Time|
+|:---|:---:|---:|---:|
+|CNN||||
+|CNN (quantised)||||
+|CNN (quantised)||||
+|CNN (QAT)||||
+|RNN (GRU)||||
 
-CNN model driving:
-![](https://github.com/PavanKumar-Gudiwada/AutonomousCarRacing/blob/main/CNN_Drive.gif)
+## Visualisations
+|Model||
+|:---|:---:|
+|CNN|![](https://github.com/PavanKumar-Gudiwada/AutonomousCarRacing/blob/main/CNN_Drive.gif)|
+|GRU|![](https://github.com/PavanKumar-Gudiwada/AutonomousCarRacing/blob/main/RNN_Drive.gif)|
 
-GRU model driving:
-![](https://github.com/PavanKumar-Gudiwada/AutonomousCarRacing/blob/main/RNN_Drive.gif)
+
