@@ -24,13 +24,12 @@ This project was completed as part of my graduate coursework and focuses on buil
 - Numpy and Matplotlib for dataset handling and analysis
 
 # Results & Observations
-|Model|Accuracy|Model Size|Inference Time|
-|:---|:---:|---:|---:|
-|CNN||||
-|CNN (quantised)||||
-|CNN (quantised)||||
-|CNN (QAT)||||
-|RNN (GRU)||||
+|Model|Regression MSE|Model Size|Inference Time|FLOPs|
+|:---|:---:|---:|---:|---:|
+|CNN|0.0312|9.99 MB|0.0170s|66.87 Mega FLOPs|
+|CNN (quantised)|0.0607|2.52 MB|0.0140s|0|
+|CNN (QAT)|0.0134|2.52MB|0.0102s|0|
+|RNN (GRU)|0.2729|28.18 MB|0.0089s|716.41 Mega FLOPs|
 
 ## Visualisations
 |Model||
