@@ -44,7 +44,7 @@ Quantization-Aware Training (QAT) retained better MSE loss, with improved infere
 - Trade-offs:
 Classic CNNs are faster but less robust on temporally complex driving scenarios.
 RNN/GRUs, while slightly heavier, improved performance especially in sequences requiring memory of past observations.
-Both models can end up driving in the wrong direction due to the way they have been trained, a reinforcement learning method with score keeping could have permormed better.
+Both models can end up driving in the wrong direction due to the way they have been trained, a reinforcement learning method with score keeping could have performed better.
 
 ## Visualisations
 |Model||
